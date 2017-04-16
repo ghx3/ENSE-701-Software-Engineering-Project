@@ -1,4 +1,4 @@
-# ENSE-701Software-Engineering-Project
+# ENSE-701 Software-Engineering-Project
 
 PROJECT TITLE: Software Engineering Group Project.
 PURPOSE OF PROJECT: Programming assignment and modify the exisiting code.
